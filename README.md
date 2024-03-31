@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying on SE in Asia Pacific University of Technology & Innovation (APU).
 - 🌱 I’m passionate about coding, especially web development.
 - 🤔 I’m looking for help with SLAM.
-- 📫 How to reach me: laukahchuan012@gmail.com
+- 📫 How to reach me: laukahchuan012@gmail.com.
 - ⚡ Fun fact: Beluga is very squishy.
 
 <!--
