@@ -4,7 +4,6 @@
 - 🌱 I’m passionate about coding, especially web development.
 - 😩 I'm currently struggling with SLAM.
 - 💬 How to reach me: *laukahchuan012@gmail.com*.
-- 🐬 Fun fact: Beluga is very squishy.
 
 <!--
 **Whalehoho/Whalehoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
