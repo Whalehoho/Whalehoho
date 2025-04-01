@@ -3,6 +3,7 @@
 - 👨‍🎓 I’m currently studying Software Engineering at **Asia Pacific University of Technology & Innovation (APU)**.
 - 💬 How to reach me: *laukahchuan012@gmail.com*.
 
+<!--
 ## 🛠️ My Favorite Tech Stack
 
 ### Databases
@@ -36,7 +37,7 @@ Docker, PM2, Tailscale VPN, DBeaver, Nginx
 ---
 
 So many cool tech to learn but so little time🥹
-
+-->
 
 <!--
 **Whalehoho/Whalehoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
